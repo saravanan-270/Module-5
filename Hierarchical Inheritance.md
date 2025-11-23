@@ -27,7 +27,8 @@ To write a Python program to get the employee and doctor details and display the
 ---
 
 ### PROGRAM
-```
+```python
+# hierarchical inheritance
 
 class Details:
     def __init__(self):
@@ -90,12 +91,11 @@ d.setEmployee(id1, nam, gen, hosp, dep)
 d.showEmployee()
 
 
+
 ```
 
 ### OUTPUT  
-
-![image](https://github.com/user-attachments/assets/8c79f3f2-8a5b-4c5d-8573-99cca478e65f)
-
+<img width="551" height="381" alt="image" src="https://github.com/user-attachments/assets/886fff08-4923-4ac9-a705-969f729abfc1" />
 
 ### RESULT
-Thus a Python program to get the employee and doctor details and display them using hierarchical inheritance. Create a parent (base) class named Details and two child (derived) classes named Employee and Doctor was executed and implemented successfully.
+Thus the python program to get the employee and doctor details and display them using hierarchical inheritance. Create a parent (base) class named `Details` and two child (derived) classes named `Employee` and `Doctor` has been implemented and executed successfully.
