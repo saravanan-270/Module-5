@@ -38,9 +38,7 @@ To write a Python program to get the name, age, and ID of a person and display t
 
 ### PROGRAM
 
-```
-
-
+```python
 class Parent:
    def __init__(self,name):
      self.name = name
@@ -65,11 +63,10 @@ gc = Grandchild(name,age,id)
 print(gc.getName(), gc.getAge(), gc.getid())
 
 
-
 ```
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/36b0b9e9-99b0-430e-bc2d-58b5a8d4b449)
+<img width="607" height="194" alt="image" src="https://github.com/user-attachments/assets/09293a9d-c5c7-4214-8b2b-a6fbc27bdea5" />
 
 ### RESULT
-Thus a Python program to get the name, age, and ID of a person and display them using multilevel inheritance was executed and implemented successfully.
+Thus the python program  to get the name, age, and ID of a person and display them using multilevel inheritance has been implemented and executed successfully.
